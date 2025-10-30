@@ -84,7 +84,7 @@ export function Footer() {
                   merchants.topnotch@gmail.com
                 </a>
               </li>
-              <li>Jaipur, Rajasthan</li>
+              <li>Jaipur, Rajasthan India</li>
             </ul>
           </div>
         </div>
