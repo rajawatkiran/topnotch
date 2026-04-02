@@ -78,13 +78,18 @@ export function Footer() {
             <h3 className="mb-4 text-white">Contacts</h3>
             <ul className="space-y-2 text-sm text-gray-400">
               <li>Sanjay Sharma</li>
-              <li>+91 9720192608</li>
+              <li>+91 9928034148</li>
               <li className="break-all">
                 <a href="mailto:merchants.topnotch@gmail.com" className="hover:text-white hover:underline transition-all duration-300">
                   merchants.topnotch@gmail.com
                 </a>
               </li>
-              <li>Jaipur, Rajasthan India</li>
+              <li className="break-all">
+                <a href="mailto:admin@topnotchsourcing.com" className="hover:text-white hover:underline transition-all duration-300">
+                  admin@topnotchsourcing.com
+                </a>
+              </li>
+              <li>Top notch, Jagatpura, Jaipur, Rajasthan India</li>
             </ul>
           </div>
         </div>
